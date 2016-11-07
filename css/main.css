@@ -1,0 +1,50 @@
+
+body{
+	background-color: #E108D6;
+}
+
+
+.agrega{
+
+background-color:pink;
+margin-bottom: 20px;
+margin-top: 20px;
+margin-left:-10px;
+
+
+}
+
+
+.guardar{
+
+margin-bottom: 20px;
+margin-top: 15px;
+}
+
+.caja{
+background-color: #B404AE;
+padding-top: 15px;
+
+}
+
+.equis{
+color:black;
+font-weight: 1px;
+font-size: 25px;
+margin-left: 150px;
+margin-top: 20px;
+padding-top: 10px;
+}
+
+.caja2{
+background-color: #B404AE;
+padding: 15px;
+
+margin-top: 20px;
+
+}
+
+.lista{
+	background-color: green;
+
+}
