@@ -27,12 +27,12 @@ listas.appendChild(boton);
 listas.appendChild(cerrar);
 
 
-contenedorListas.appendChild(fila);
-boton.addEventListener("click",function(){
-var 
+//contenedorListas.appendChild(fila);
+//boton.addEventListener("click",function(){
+//var 
 
 
-})
+//}
 
 
 
