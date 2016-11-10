@@ -40,7 +40,7 @@ var paraTodo=document.createElement("div");
 var cajita=document.createElement("div");
 var escritura=document.getElementById("texto1").value;
 var nodoTexto=document.createTextNode(escritura);
-var areaEsc=document.createElement("h1");
+var areaEsc=document.createElement("h5");
 paraTodo.appendChild(cajita);
 areaEsc.appendChild(nodoTexto);
 cajita.appendChild(areaEsc);
