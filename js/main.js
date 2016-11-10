@@ -35,7 +35,7 @@ listas.appendChild(cerrar);
 
 //contenedorListas.appendChild(fila);
 boton.addEventListener("click",function(){
-
+var cajaTarea=document.getElementById("caja2");
 var paraTodo=document.createElement("div");
 var cajita=document.createElement("div");
 var escritura=document.getElementById("texto1").value;
@@ -45,21 +45,13 @@ paraTodo.appendChild(cajita);
 areaEsc.appendChild(nodoTexto);
 cajita.appendChild(areaEsc);
 
+cajaTarea.appendChild(cajita);
+cajita.classList.add("col-md-4");
 
 
 
 
 
 })
-
-
-
-
-
-
-//var tarea=document.createElement("div")
-//var elementonNombreLista=document.createElement("strong");
-//var elementoRef= document.createElement("a");
-
 
 }
